@@ -1,0 +1,8 @@
+huggingface_hub==0.22.2
+gradio
+transformers
+tensorflow==2.15
+keras==2.15
+requests
+flask
+datasets
